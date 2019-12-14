@@ -43,3 +43,6 @@ SourceForge
 
 This plugin was formerly hosted at https://sourceforge.net/projects/eclipsejsonedit/
 
+This fork adds **"Export-Package: com.boothen.jsonedit.editor"** for extends **com.boothen.jsonedit.editor.JsonTextEditor**
+
+![ExportJsonEditor](https://user-images.githubusercontent.com/6531429/70852948-42d8e280-1e6d-11ea-8bf6-a0246e013524.PNG)
